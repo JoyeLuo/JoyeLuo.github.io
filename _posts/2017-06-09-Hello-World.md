@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello World"
+title: "中文测试"
 author: "Joye Luo"
 categories: documentation
 tags: [documentation,sample]
