@@ -1,23 +1,21 @@
-title:  "Millennial"
-tagline: "a Jekyll theme"
+title:  "森罗万象"
+tagline: "一只程序喵的日常"
 description:
 author:
-  name: "Paul Le"
-  twitter: paululele
+  name: "Joye Luo"
 
 menu:
-- {name: 'Interesting Facts', file: 'facts.html'}
-- {name: 'Learning Resources', file: 'resources.html'}
-- {name: 'Sample Posts', file: 'sample-posts.html'}
-- {name: 'Documentation', file: 'documentation.html'}
-- {name: 'About', file: 'about.html'}
-- {name: 'Contact', file: 'contact.html'}
+- {name: '世界观察录', file: 'world.html'}
+- {name: '编程笔记', file: 'note.html'}
+- {name: '读书随想', file: 'book.html'}
+- {name: '项目', file: 'program.html'}
+- {name: '影评', file: 'movie.html'}
+- {name: '关于我', file: 'me.html'}
 
 social:
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
-- {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
+- {icon: 'github', link: 'https://github.com/JoyeLuo'}
+- {icon: 'linkedin', link: 'https://linkedin.com/in/琼玉-罗-917303139'}
+- {icon: 'book', link: 'http://www.cnblogs.com/hibou/'}
+- {icon: 'facebook', link: 'https://www.facebook.com/luo.qiongyu'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer

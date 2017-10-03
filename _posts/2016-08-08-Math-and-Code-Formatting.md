@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Math and Code Formatting"
-author: "Paul Le"
-categories: sample
-tags: [sample]
+author: "Joye Luo"
+categories: program
+tags: [program]
 image:
-  feature: nature-1.jpg
+  feature: cuba-1.jpg
 ---
 
 Millennial comes out of the box with [MathJax](https://www.mathjax.org/) and syntax highlighting through [fenced code blocks](https://help.github.com/articles/creating-and-highlighting-code-blocks/). MathJax allows you to display mathematical equations in your posts through the use of [LaTeX](http://www.andy-roberts.net/writing/latex/mathematics_1). Syntax highlighting allows you to display source code in different colors and fonts depending on what programming language is being displayed.

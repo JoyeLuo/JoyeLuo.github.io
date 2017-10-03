@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Khan Academy"
-author: "Paul Le"
-categories: resources
-tags: [sample]
+author: "Joye Luo"
+categories: book
+tags: [book]
 image:
   feature: arctic-3.jpg
 ---

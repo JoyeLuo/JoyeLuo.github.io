@@ -2,29 +2,17 @@
 layout: post
 title: "Welcome to Millennial!"
 author: "Paul Le"
-categories: documentation
-tags: [documentation,sample]
+categories: world
+tags: [world]
 image:
-  feature: cuba-1.jpg
+  feature: nature-1.jpg
 ---
 
 Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. Below you can find everything you need to get started.
 
 ### Getting Started
 
-[Installation Guide]({{ site.github.url }}{% post_url 2016-12-12-Installation-Guide %}): this post will help you get started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
-
 ### Using Millennial
-
-[Working With Jekyll]({{ site.github.url }}{% post_url 2016-11-11-Working-With-Jekyll %}): this post will acquaint you with how to use Jekyll to create your own site.
-
-[Working With Millennial]({{ site.github.url }}{% post_url 2016-10-10-Working-With-Millennial %}): this post will acquaint you with how to use Jekyll to create your own site.
-
-### Example Content
-
-[Text and Formatting]({{ site.github.url }}{% post_url 2016-09-09-Text-Formatting %})
-
-[Math and Code Formatting]({{ site.github.url }}{% post_url 2016-08-08-Math-and-Code-Formatting %})
 
 ### Questions?
 
